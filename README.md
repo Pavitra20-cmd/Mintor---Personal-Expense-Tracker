@@ -61,7 +61,7 @@ These are a few notable dependencies defined in `pubspec.yaml`:
 
 ```bash
 git clone https://github.com/Pavitra20-cmd/Mintor---Personal-Expense-Tracker.git
-cd flutter-finance-tracker
+cd Mintor - Personal Expense Tracker
 flutter pub get
 flutter run
 ```
