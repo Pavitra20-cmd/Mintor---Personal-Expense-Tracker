@@ -83,7 +83,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Your Name** – [@yourgithub](https://github.com/Pavitra20-cmd)
+**Your Name** – [Pavitra Shilodre](https://github.com/Pavitra20-cmd)
 
 ## 📃 License
 
