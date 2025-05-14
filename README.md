@@ -60,7 +60,7 @@ These are a few notable dependencies defined in `pubspec.yaml`:
 ### Run Locally
 
 ```bash
-git clone https://github.com/yourusername/flutter-finance-tracker.git
+git clone https://github.com/Pavitra20-cmd/Mintor---Personal-Expense-Tracker.git
 cd flutter-finance-tracker
 flutter pub get
 flutter run
@@ -72,7 +72,7 @@ flutter run
 
 | Home Screen | Add Expense | Statistics |
 |-------------|-------------|------------|
-| ![home](screenshots/home.png) | ![add](screenshots/add.png) | ![stats](screenshots/statistics.png) |
+| ![home](screenshots/home.jpg) | ![add](screenshots/add.jpg) | ![stats](screenshots/statistics.jpg) |
 
 ## 🔮 Future Enhancements
 
@@ -83,7 +83,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Your Name** – [@yourgithub](https://github.com/yourgithub)
+**Your Name** – [@yourgithub](https://github.com/Pavitra20-cmd)
 
 ## 📃 License
 
